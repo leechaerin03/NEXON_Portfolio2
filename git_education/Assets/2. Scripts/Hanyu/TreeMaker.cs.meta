@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7288d36463da65742960535b0785e57b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - click_obj: {instanceID: 0}
+  - mergtmp: {instanceID: 0}
+  - cltmp: {instanceID: 0}
+  - checkoutname: {fileID: 7644351984240063378, guid: 648336e8d9e559c41b0df637b4a1987a, type: 3}
+  - cl: {instanceID: 0}
+  - ml: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
